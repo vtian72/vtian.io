@@ -1,1 +1,1 @@
-# Hi, I'm Vincent. Welcome to my website.
+# Welcome to my website.
